@@ -38,5 +38,10 @@ colNames_MSD: Stores the indices of the relevant data as a logical vector
 Filter_Combine: Output after filtering
 
 ###5_Name_Activity.R
-Filter_Combine
+Filter_Combine: Variable reordered acoording to SubjectId and ActivityClass
+Join_Filter: Filter_combine merged with activityNames
+Final_data: ActivityId removed from Join_Filter and Columns reordered
+
 ###6_Name_Feature.R
+names_Final: Names of the headers of Final_Data stored in this variable and changed to better descriptive names for changing the header names of Final_Data
+TidyData: Tidy data averaged over subject id and activity name ordered by subject id and activity name

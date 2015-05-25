@@ -13,10 +13,10 @@ The assignment requires to collect the data from net and make it undergo the pro
 -----------------------------------------------------------------
 The tidy dataset is created with the filename "tidydata.txt". It does not have header name written in it. Headernames are
 as mentioned below with 180 entries(30 SubjectId * 6 ActivityName).
-1	SubjectId
-2	ActivityName
-3	Time-Accelerometer-Mean-X
-4	Time-Accelerometer-Mean-Y
+* 1	SubjectId
+* 2	ActivityName
+- 3	Time-Accelerometer-Mean-X
+- 4	Time-Accelerometer-Mean-Y
 5	Time-Accelerometer-Mean-Z
 6	Time-Accelerometer-SD-X
 7	Time-Accelerometer-SD-Y

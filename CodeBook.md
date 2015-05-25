@@ -1,5 +1,5 @@
 ##CODEBOOK
-=================================================================
+_________________________________________________________________
 Following are the list of R files that executes the tasks.
 -run_analysis.R
 -1_Download.R
@@ -10,7 +10,7 @@ Following are the list of R files that executes the tasks.
 -6_Name_Feature.R
 
 ##Variable Details
-=========================================
+_________________________________________
 Following is the description of variables used in these individual R files.
 
 ###run_analysis.R

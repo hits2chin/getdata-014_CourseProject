@@ -1,15 +1,15 @@
-##CODEBOOK
+CODEBOOK
 _________________________________________________________________
 Following are the list of R files that executes the tasks.
--run_analysis.R
--1_Download.R
--2_ReadFiles.R
--3_Combine_Merge.R
--4_Feature_Filter.R
--5_Name_Activity.R
--6_Name_Feature.R
+- run_analysis.R
+- 1_Download.R
+- 2_ReadFiles.R
+- 3_Combine_Merge.R
+- 4_Feature_Filter.R
+- 5_Name_Activity.R
+- 6_Name_Feature.R
 
-##Variable Details
+Variable Details
 _________________________________________
 Following is the description of variables used in these individual R files.
 

@@ -92,12 +92,12 @@ The following files are included in this Repo
 - '1_Download.R': It downloads the raw data in zip format and unzips it.
 - '2_ReadFiles.R': Reads all the files and loads into memory.
 - '3_Combine_Merge.R': Combines test data and train data under the 3 categories viz. activity, subject and feature measurement and merges the 3 files. This also completes the first task i.e. 
-	1. Merges the training and the test sets to create one data set.
+	* 1. Merges the training and the test sets to create one data set.
 - '4_Feature_Filter'.R: Removes all features except the ones measuring mean and standard deviation. This also completes the second task i.e. 
-	2. Extracts only the measurements on the mean and standard deviation for each measurement. 
+	* 2. Extracts only the measurements on the mean and standard deviation for each measurement. 
 - '5_Name_Activity.R': Matches numeric "ActivityClass" to descriptive "ActivityName". This also completes the third task i.e. 
-	3. Uses descriptive activity names to name the activities in the data set
+	* 3. Uses descriptive activity names to name the activities in the data set
 
 - '6_Name_Feature.R': Changes the header labels and saves a copy of the tidy data. This also completes fourth an fifth tasks i.e. 
-	4. Appropriately labels the data set with descriptive variable names. 
-	5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
+	* 4. Appropriately labels the data set with descriptive variable names. 
+	* 5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.

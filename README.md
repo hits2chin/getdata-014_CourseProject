@@ -1,13 +1,16 @@
+##README
 =================================================================
 Project submission for assignment on coursera
 Course Name: Getting and Cleaning Data
 Course Id: getdata-014
+
+Brief on Course Project
 =================================================================
 The assignment is based on the data provided on 30 people on 6 activities viz. LAYING, SITTING, STANDING, WALKING, WALKING_DOWNSTAIRS & WALKING_UPSTAIRS. The data was collected using samsung handset.
-
 The assignment requires to collect the data from net and make it undergo the process of cleaning to acquire a tidy dataset.
-=================================================================
 
+##Details on Tidydata
+=================================================================
 The tidy dataset is created with the filename "tidydata.txt". It does not have header name written in it. Headernames are
 as mentioned below with 180 entries(30 SubjectId * 6 ActivityName).
 1	SubjectId
@@ -78,6 +81,7 @@ as mentioned below with 180 entries(30 SubjectId * 6 ActivityName).
 66	Frequency-Gyroscope-Magnitude-SD
 67	Frequency-Gyroscope-Jerk-Magnitude-Mean
 68	Frequency-Gyroscope-Jerk-Magnitude-SD
+##Details on files
 =========================================
 The following files are included in this Repo
 - 'README.md'
@@ -96,4 +100,3 @@ The following files are included in this Repo
 - '6_Name_Feature.R': Changes the header labels and saves a copy of the tidy data. This also completes fourth an fifth tasks i.e. 
 	4. Appropriately labels the data set with descriptive variable names. 
 	5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
-=========================================

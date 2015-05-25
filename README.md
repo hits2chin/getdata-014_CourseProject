@@ -81,6 +81,7 @@ as mentioned below with 180 entries(30 SubjectId * 6 ActivityName).
 * 66	Frequency-Gyroscope-Magnitude-SD
 * 67	Frequency-Gyroscope-Jerk-Magnitude-Mean
 * 68	Frequency-Gyroscope-Jerk-Magnitude-SD
+
 Details on files
 -----------------------------------------
 The following files are included in this Repo
